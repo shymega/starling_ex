@@ -1,7 +1,7 @@
 StarlingEx
 ==========
 
-This is an Elixir library for Starling Bank's API.
+A Elixir library for Starling Bank's API.
 
 ## Disclaimer
 
