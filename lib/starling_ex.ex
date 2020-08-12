@@ -1,0 +1,2 @@
+defmodule StarlingEx do
+end
