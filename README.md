@@ -1,3 +1,3 @@
 # StarlingEx
 
-This is an Elixir SDK for Starling Bank's API.
+This is an Elixir library for Starling Bank's API.
